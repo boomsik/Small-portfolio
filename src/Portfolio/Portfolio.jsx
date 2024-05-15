@@ -81,6 +81,7 @@ export default function Portfolio() {
             <Card
                 carts={dron1}
                 text={"Anti-drone gun mockup"}
+                text2={"Development of a prototype for 3D printing"}
                 image1={dron1}
                 image2={dron2}
                 image3={dron3}
