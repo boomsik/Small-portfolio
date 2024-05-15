@@ -1,0 +1,45 @@
+.header {
+    background-image: url("./fon.jpg"); /* Путь к изображению */
+    background-size: cover; /* Масштабирование изображения по размерам контейнера */
+    background-position: center; /* Выравнивание изображения по центру */
+    height: 500px; /* Высота контейнера */
+    display: flex; /* Для центрирования содержимого */
+    justify-content: center; /* Центрирование по горизонтали */
+    align-items: center; /* Центрирование по вертикали */
+    position: relative;
+}
+
+.myphoto {
+    width: 240px;
+    position: absolute; /* Позиционирование абсолютно */
+    top: 10px; /* Отступ от верхнего края */
+    left: 25px; /* Отступ от левого края */
+}
+
+.alltext {
+    margin-top: 230px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center; /* Выравнивание текста по центру */
+    margin-top: auto;
+    text-transform: uppercase; /* Преобразование текста в верхний регистр */
+    font-size: 25px; /* Установка верхнего отступа как auto, чтобы выровнять текст по нижнему краю */
+}
+
+.works {
+    width: 680px;
+    background-color: rgb(187, 187, 187);
+    border-radius: 10px;
+}
+
+.hello {
+    padding-top: 100px;
+}
