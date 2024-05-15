@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Small-portfolio/static/css/main.fa8adf4a.css",
+    "main.js": "/Small-portfolio/static/js/main.85ed9fa3.js",
+    "static/js/453.adc34edb.chunk.js": "/Small-portfolio/static/js/453.adc34edb.chunk.js",
+    "static/media/photo.png (1).png": "/Small-portfolio/static/media/photo.png (1).a36ab14b983085514b00.png",
+    "static/media/image2.png": "/Small-portfolio/static/media/image2.86e159bc27d84a1376e3.png",
+    "static/media/image3.png": "/Small-portfolio/static/media/image3.f1c7abb973614042a465.png",
+    "static/media/image1.png": "/Small-portfolio/static/media/image1.462a0eba92bb103358b3.png",
+    "static/media/image4.png": "/Small-portfolio/static/media/image4.5bf415c9b8eb0bed6920.png",
+    "static/media/stracher.png": "/Small-portfolio/static/media/stracher.bd85da1e1454301fd913.png",
+    "static/media/modem 1.png": "/Small-portfolio/static/media/modem 1.3a8a67909c8cfc5038a6.png",
+    "static/media/modem1.png": "/Small-portfolio/static/media/modem1.3a8a67909c8cfc5038a6.png",
+    "static/media/image.png": "/Small-portfolio/static/media/image.3027db0333462d12d86b.png",
+    "static/media/modem3.png": "/Small-portfolio/static/media/modem3.3e9c47f390c04ad8b05e.png",
+    "static/media/fon.jpg": "/Small-portfolio/static/media/fon.c4bba9200fa03df8894c.jpg",
+    "static/media/modem4.png": "/Small-portfolio/static/media/modem4.33755c3397076e094522.png",
+    "static/media/modem2.png": "/Small-portfolio/static/media/modem2.afa013af8999a616735d.png",
+    "index.html": "/Small-portfolio/index.html",
+    "main.fa8adf4a.css.map": "/Small-portfolio/static/css/main.fa8adf4a.css.map",
+    "main.85ed9fa3.js.map": "/Small-portfolio/static/js/main.85ed9fa3.js.map",
+    "453.adc34edb.chunk.js.map": "/Small-portfolio/static/js/453.adc34edb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa8adf4a.css",
+    "static/js/main.85ed9fa3.js"
+  ]
+}
